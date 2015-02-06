@@ -60,6 +60,9 @@ class FetchWeek extends Command {
 
 		foreach ($daysOfTheWeek as $day)
 		{
+
+			sleep(1);
+			
 			$url = $baseURL.$day.".csv";
 
 			$data = file_get_contents($url);
