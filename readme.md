@@ -22,7 +22,7 @@ The API hasn't really been built out much. At the moment, it only has the index 
 
 ##Caveats
 
-There is no validation or prevention of duplicate data. The structure of this code is also a procedural mess. This was written in about 45 minutes during a Code & Supply Build Night.
+There is no validation or prevention of duplicate data. The structure of this code is also a procedural mess. This was written in about 45 minutes during a [Code & Supply](http://codeandsupply.co) Build Night.
 
 Please adjust your expectations accordingly.
 
