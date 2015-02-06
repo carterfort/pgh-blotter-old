@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ff8ec70d-8949-48ee-89f5-dfabbada97a9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Console/Commands/FetchWeek.php" afterPath="$PROJECT_DIR$/app/Console/Commands/FetchWeek.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="police-blotter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FetchWeek.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Console/Commands/FetchWeek.php">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.66311586" vertical-offset="836" max-vertical-offset="3335">
-              <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.41184574" vertical-offset="0" max-vertical-offset="828">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -57,8 +59,8 @@
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/app/Incident.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/IncidentsController.php" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/app/Console/Commands/FetchWeek.php" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -625,18 +627,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
+    <entry file="file://$PROJECT_DIR$/app/Console/Commands/FetchWeek.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76033056" vertical-offset="0" max-vertical-offset="782">
-          <caret line="24" column="196" selection-start-line="24" selection-start-column="196" selection-end-line="24" selection-end-column="196" />
-          <folding />
+        <state vertical-scroll-proportion="0.38748336" vertical-offset="882" max-vertical-offset="3289">
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+          <folding>
+            <marker date="1423194379000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder=" The console command name. ..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder=" The console command description. ..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder=" Create a new command instance. ..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder=" Execute the console command. ..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder=" Get the console command arguments. ..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder=" Get the console command options. ..." />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1423194379000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Console/Commands/FetchWeek.php">
+    <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66311586" vertical-offset="836" max-vertical-offset="3335">
-          <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.41184574" vertical-offset="0" max-vertical-offset="828">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>

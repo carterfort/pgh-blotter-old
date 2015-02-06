@@ -56,13 +56,11 @@ class FetchWeek extends Command {
 
 		$baseURL = "http://apps.pittsburghpa.gov/police/arrest_blotter/arrest_blotter_";
 
-		$results = [];
-
 		foreach ($daysOfTheWeek as $day)
 		{
 
 			sleep(1);
-			
+
 			$url = $baseURL.$day.".csv";
 
 			$data = file_get_contents($url);
@@ -112,7 +110,7 @@ class FetchWeek extends Command {
 				]);
 			}
 
-
+			$this->info('Added '.$day);
 
 		}
 

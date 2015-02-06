@@ -10,6 +10,8 @@ You can learn more about [Composer here](http://getcomposer.org).
 
 Laravel requires PHP, Mcrypt and a database. It's pre-configured to use MySQL, but you can learn more about switching it [here](http://laravel.com).
 
+After you've set up your DB, set the variables in the .env file located in the root directory.
+
 ##Usage
 
 The app uses Laravel's Artisan Command Line Interface to pull in the available data for the week. The command is `fetch:week`.
