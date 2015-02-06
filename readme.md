@@ -4,7 +4,9 @@ This is a bare-bones implementation of a RESTful API for viewing the police blot
 
 ##Installation
 
-Use `git clone` to pull this repo down, then run `composer install` to fetch the rest of the Laravel framework.
+Run `git clone https://github.com/carterfort/pgh-blotter.git` to pull this repo down, then run `composer install` to fetch the rest of the Laravel framework.
+
+You can learn more about [Composer here](http://getcomposer.org).
 
 Laravel requires PHP, Mcrypt and a database. It's pre-configured to use MySQL, but you can learn more about switching it [here](http://laravel.com).
 
